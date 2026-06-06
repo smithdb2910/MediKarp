@@ -12,7 +12,10 @@ MediKarp is a lightweight Android medicine tracker built for **older users who j
 
 ##  Screenshots
 
-> *Coming soon — drop your own screenshots here after building!*
+<img width="1080" height="2400" alt="Screenshot_20260607-015201" src="https://github.com/user-attachments/assets/4e80ae5e-4ee1-4a2e-8cf5-970284ed73cd" />
+
+<img width="1080" height="2400" alt="Screenshot_20260607-015206" src="https://github.com/user-attachments/assets/888ed641-b440-4025-ab0b-8343f0171208" />
+
 
 ---
 
